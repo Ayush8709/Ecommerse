@@ -1,0 +1,108 @@
+html{
+    scroll-behavior: smooth;
+}
+/* navbar */
+a{
+    font-family: cursive;
+    margin: 0 7px;
+    color: black;
+}
+/* END NAVBAR */
+    /* BODY section */
+    .fluid{
+        background-image: url(/images/products-page-heading.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 100%;
+        height: auto;
+    }
+    .tl{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 400px;
+        margin: auto auto;
+        text-align: center;
+        font-size: 4em;
+        font-weight: bolder;
+    }
+    .pl{
+        font-size: 2rem;
+        display: inline;
+    }
+    .pz{
+        color: #90685F;
+    }
+    .p2{
+        color: black;
+    }
+    /* the footer section */
+    span, .pt{
+        color: #2e2828cc;
+      }
+      .p1{
+          font-family: sans-serif;
+          color: rgb(70, 52, 52);
+          font-size: 18px;
+      }
+      .p2{
+        color: rgb(166 117 117 / 91%);
+        font-size: 22px;
+      }
+    
+    #a{
+        color: blue;
+        text-decoration: none;
+        font-family: fantasy;
+    }
+    #a:hover{
+        text-decoration: underline;
+    }
+    #btn:hover{
+        color: blueviolet;
+    }
+    #p{
+      color:rgb(166 117 117 / 91%);
+    }
+    input{
+        display: block;
+        width: 90%;
+        padding: 10px 20px;
+        margin: 19px -2px;
+        border-radius: 33px;
+    }
+    button{
+        max-width: 100%;
+        width: 90%;
+        border-radius: 33px;
+    }
+    .last{
+        background-color: #2a2a2a;
+        color: #fff;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .lp{
+        font-size: 12px;
+        padding-left: 11px;
+    }
+    .la{
+        color: #fff;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        text-decoration: none;
+    }
+    .la:hover{
+        color: #fff;
+        text-decoration: none;
+    }
+    .la2{
+        color: white;
+        text-decoration: none;
+    }
+    
+    .la2:hover{
+        color: white;
+        text-decoration: none;
+    }
+    
+      
